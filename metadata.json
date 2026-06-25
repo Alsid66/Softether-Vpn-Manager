@@ -1,0 +1,6 @@
+{
+  "name": "SoftEther VPN Manager",
+  "description": "A comprehensive, full-stack administrator dashboard and dynamic configuration manager for your personal SoftEther VPN Server (SSTP, L2TP, and SSL). Check connection status, manage virtual hubs, create/delete VPN users, and download client configurations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
